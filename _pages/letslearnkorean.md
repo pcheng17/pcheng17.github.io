@@ -32,7 +32,7 @@ There are two ways to say "and": 하고 and 와/과.
 * Use 과 when the previous word ends with a vowel.
 * 하고 can be used whenever we want.
 
-To conjuage a verb into its "-ing" form, we add -고있어요.
+To conjuage a verb into its "-ing" form, we we the ending -고 있어요.
 
 ### Homework 1
 
@@ -57,5 +57,10 @@ Comments from my homework last week:
   vowels, since technically it should be 마시어요.
 * The same nuance above applies to conjugating 보다. In present tense, it
   becomes 봐요, and in past tense, 봤어요.
+  
+I learned a few grammar structures:
+* To convey the possibility of something happening, e.g. "I can drink coffee" or "Can you meet me later," we use the ending -ㄹ/을 수 있다. 
+* To convey the idea of "let" or "shall," we use the ending -ㄹ/을까(요).
+* To say that someone/something is at a certain place, we say the place and then follow it with -에 있다.
 
 ### Homework 2
