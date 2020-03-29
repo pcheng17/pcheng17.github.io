@@ -102,6 +102,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:pcheng17@gmail.com
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/peter-cheng-a2040037/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://pcheng17.github.io"
