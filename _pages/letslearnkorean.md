@@ -48,3 +48,14 @@ To conjuage a verb into its "-ing" form, we add -고있어요.
 10. 저는 어재 친구를 만났어요.
 11. 저는 태권도를 배워요.
 
+## Lesson 2
+
+Comments from my homework last week:
+* If you have two verbs in the same sentence that are linked together by "and,"
+  only the second one needs to be conjugated correctly.
+* 마시다 conjugates to 마셔요 (in present tense). Notice the blending of the
+  vowels, since technically it should be 마시어요.
+* The same nuance above applies to conjugating 보다. In present tense, it
+  becomes 봐요, and in past tense, 봤어요.
+
+### Homework 2
