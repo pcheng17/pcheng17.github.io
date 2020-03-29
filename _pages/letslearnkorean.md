@@ -8,4 +8,4 @@ toc_label: "Table of Contents"
 author_profile: true
 ---
 
-This will be where all of my notes from Korean class will go.
+저는 한국어를 공보하고 있어요!
