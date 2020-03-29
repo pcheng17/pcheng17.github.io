@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "FX/CFX Software Engineer at Dreamworks"
   location         : "Los Angeles, CA"
-  email            : "pcheng17@gmail.com"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
