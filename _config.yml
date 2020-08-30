@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-paper-plane"
-      url: mailto:pcheng17@gmail.com
+      # url: 
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/peter-cheng-a2040037/"
