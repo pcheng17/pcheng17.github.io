@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
   
 # Korean links
-hangul:
+letslearnkorean:
   - title: Vocabulary
     children:
       - title: "Nouns"
