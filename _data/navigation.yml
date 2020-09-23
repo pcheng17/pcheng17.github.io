@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: Vocabulary
+  - title: "Vocabulary"
   children:
     - title: "Nouns"
-      url: /letslearnkorean/nouns
+      url: /letslearnkorean/nouns/
