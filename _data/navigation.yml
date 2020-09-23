@@ -15,9 +15,4 @@ docs:
   - title: Vocabulary
   children:
     - title: "Nouns"
-      url: /docs/first-post
-    - title: "Verbs"
-    # url:
-    - title: "Adjectives"
-    # url:
-    - title: "Miscellaneous"
+      url: /docs/nouns
