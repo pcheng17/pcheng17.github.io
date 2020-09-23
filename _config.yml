@@ -148,7 +148,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _hangul
+  - _letslearnkorean
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -283,13 +283,13 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _hangul
+  # _letslearnkorean
   - scope:
       path: ""
-      type: hangul
+      type: letslearnkorean
     values:
       layout: single
       author_profile: false
       share: true
       sidebar:
-        nav: "hangul"
+        nav: "letslearnkorean"
