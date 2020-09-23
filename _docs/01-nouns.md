@@ -1,6 +1,6 @@
 ---
 title: "Nouns"
-permalink: /korean/nouns/
+permalink: /letslearnkorean/nouns/
 ---
 
 Hello! Testing.
