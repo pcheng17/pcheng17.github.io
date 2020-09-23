@@ -293,3 +293,10 @@ defaults:
       share: true
       sidebar:
         nav: "letslearnkorean"
+
+
+# Collections
+collections:
+  letslearnkorean:
+    output: true
+    permalink: /:collection/:path/
