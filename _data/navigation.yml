@@ -10,8 +10,10 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
+# Korean links
 docs:
-  - title: "Vocabulary"
-  children:
-    - title: "Nouns"
-      url: /letslearnkorean/nouns/
+  - title: Vocabulary
+    children:
+      - title: "Nouns"
+        url: /letslearnkorean/nouns/
