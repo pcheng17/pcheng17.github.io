@@ -288,7 +288,6 @@ defaults:
       path: "_letslearnkorean"
       type: letslearnkorean
     values:
-      layout: single
       author_profile: false
       share: true
       sidebar:
