@@ -1,6 +1,6 @@
 ---
 title: "Fist Post"
-permalink: /docs/first-post/
+permalink: /docs/nouns/
 ---
 
 Hello! Testing.
