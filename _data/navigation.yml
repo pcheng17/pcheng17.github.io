@@ -13,7 +13,7 @@ main:
 
 menu:
   - title: Vocabulary
-  chilrden:
+  children:
     - title: "Nouns"
     # url:
     - title: "Verbs"
