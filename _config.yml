@@ -283,12 +283,3 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _letslearnkorean
-  - scope:
-      path: "_letslearnkorean"
-      type: letslearnkorean
-    values:
-      author_profile: false
-      share: true
-      sidebar:
-        nav: "letslearnkorean"
