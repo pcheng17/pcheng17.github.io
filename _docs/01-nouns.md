@@ -1,6 +1,6 @@
 ---
 title: "Fist Post"
-permalink: /docs/nouns/
+permalink: /letslearnkorean/nouns/
 ---
 
 Hello! Testing.
