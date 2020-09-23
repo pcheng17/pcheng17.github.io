@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : Peter Blogs
+title                    : "Peter Blogs"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Peter Blogs
-description              : "A place for me to document anything and everything
+name                     : "Peter Blogs"
+description              : "A place for me to document anything and everything"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
