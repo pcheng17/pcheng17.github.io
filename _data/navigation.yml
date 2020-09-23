@@ -10,3 +10,14 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+menu:
+  - title: Vocabulary
+  chilrden:
+    - title: "Nouns"
+    # url:
+    - title: "Verbs"
+    # url:
+    - title: "Adjectives"
+    # url:
+    - title: "Miscellaneous"
