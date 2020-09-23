@@ -283,13 +283,13 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _docs
+  # _hangul
   - scope:
       path: ""
-      type: docs
+      type: hangul
     values:
       layout: single
       author_profile: false:
       share: true
       sidebar:
-        nav: "docs"
+        nav: "hangul"
