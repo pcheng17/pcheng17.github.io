@@ -7,4 +7,4 @@ sidebar:
   nav: letslearnkorean
 ---
 
-Hello! Testing.
+Hello! Testing. Is the sidebar working?
