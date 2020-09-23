@@ -1,5 +1,5 @@
 ---
-title: "Fist Post"
+title: "Nouns"
 permalink: /letslearnkorean/nouns/
 ---
 
