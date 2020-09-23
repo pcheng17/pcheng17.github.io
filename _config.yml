@@ -285,7 +285,7 @@ defaults:
       related: true
   # _letslearnkorean
   - scope:
-      path: _letslearnkorean
+      path: "_letslearnkorean"
       type: letslearnkorean
     values:
       layout: single
