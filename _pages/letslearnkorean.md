@@ -4,7 +4,7 @@ title: "Let's Learn Korean"
 permalink: /letslearnkorean/
 comments: true
 sidebar: 
-  nav: docs
+  nav: hangul
 ---
 
 저는 한국어를 배우고 있어요!
