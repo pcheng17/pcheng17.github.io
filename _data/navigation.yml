@@ -10,7 +10,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  
+
 # Korean links
 letslearnkorean:
   - title: Vocabulary
@@ -21,4 +21,10 @@ letslearnkorean:
         url: /letslearnkorean/nouns/
       - title: "Verbs"
         url: /letslearnkorean/verbs/
+  - title: Grammar
+    children:
+      - title: "Conjugations"
+        url: /letslearnkorean/conjugations/
+      - title: "Constructions"
+        url: /letslearnkorean/constructions/
 
