@@ -15,7 +15,10 @@ main:
 letslearnkorean:
   - title: Vocabulary
     children:
+      - title: "Adjectives"
+        url: /letslearnkorean/adjectives/
       - title: "Nouns"
         url: /letslearnkorean/nouns/
       - title: "Verbs"
         url: /letslearnkorean/verbs/
+
