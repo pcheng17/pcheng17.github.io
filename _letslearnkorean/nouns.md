@@ -7,6 +7,7 @@ sidebar:
   nav: letslearnkorean
 ---
 
+-----    | ----------
 영국     | England
 일본     | Japan
 비행기   | airplane
