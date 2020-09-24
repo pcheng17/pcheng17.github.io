@@ -17,3 +17,5 @@ letslearnkorean:
     children:
       - title: "Nouns"
         url: /letslearnkorean/nouns/
+      - title: "Verbs"
+        url: /letslearnkorean/verbs/
