@@ -20,7 +20,7 @@ Vocab    | Definition
 콩나물   | bean sprouts
 소고기   | beef
 자전거   | bicycle
-갱일     | birthday
+생일     | birthday
 책       | book
 팔지     | bracelet
 아짐     | breakfast; morning
