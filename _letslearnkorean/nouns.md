@@ -7,8 +7,6 @@ sidebar:
   nav: letslearnkorean
 ---
 
-Vocab    | Definition
------    | ----------
 영국     | England
 일본     | Japan
 비행기   | airplane
