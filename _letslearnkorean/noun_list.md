@@ -120,6 +120,7 @@ Vocab    | Definition
 차       | tea
 시험     | test
 기차     | train
+교통     | transportation
 과외     | tutoring
 우산     | umbrella
 대학교   | university
