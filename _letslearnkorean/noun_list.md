@@ -3,7 +3,7 @@ layout: single
 title: "Nouns"
 permalink: /letslearnkorean/nouns/
 excerpt: "A list of all the nouns I've learned so far"
-sidebar: 
+sidebar:
   nav: letslearnkorean
 ---
 
@@ -32,6 +32,7 @@ Vocab    | Definition
 의자     | chair
 선택     | choice, selection, option
 극장     | cinema
+수업     | class
 시계     | clock, watch
 커피     | coffee
 커피숖   | coffee shop

@@ -1,0 +1,81 @@
+#!/usr/bin/python
+
+import os
+import subprocess
+import sys
+
+
+def sort_vocab(src_path):
+    # Construct full paths for old and sorted files
+    idx = src_path.find('.md')
+    begin = src_path.rfind('/') + 1
+    dst_path = src_path[:idx] + '_sorted' + src_path[idx:]
+    old_path = src_path[:idx] + '_old' + src_path[idx:]
+
+    # Count the number of lines before the vocab starts
+    count = 0
+    with open(src_path, 'r') as file:
+        for line in file:
+            count += 1
+            if '| Definition' in line:
+                # If '| Definition' is found, then we're at the first row of the
+                # table, which contains the column titles. Need to increment
+                # count one more time to account for the separator row.
+                count += 1
+                break
+
+    tail_count = count + 1
+    head_count = count
+
+    # Construct the command that performs the following:
+    #   1) sort the file with respect to the English definition
+    #   2) remove duplicate lines with respect to the Korean vocab
+    #   3) write the new file
+    sort_cmd = '(head -n ' + str(head_count) + ' ' + src_path + ' && ' \
+               'tail -n ' + '+' + str(tail_count) + ' ' + src_path + \
+               ' | sort --field-separator=\| --key=2) ' \
+               ' | uniq -f 0 > ' + dst_path
+    try:
+        subprocess.check_output(sort_cmd, shell = True)
+    except subprocess.CalledProcessError as e:
+        print(e.output)
+
+    # Swap the files
+    swp_cmd = 'mv ' + src_path + ' ' + old_path + ' && ' \
+              'mv ' + dst_path + ' ' + src_path
+    try:
+        subprocess.check_output(swp_cmd, shell = True)
+    except subprocess.CalledProcessorError as e:
+        print(e.output)
+
+    # Delete old file
+    del_cmd = 'rm -rf ' + old_path
+    try:
+        subprocess.check_output(del_cmd, shell = True)
+    except subprocess.CalledProcessorError as e:
+        print(e.output)
+
+
+#################################################
+# Main script
+
+# Get path to the git root
+cmd_root = 'git rev-parse --show-toplevel'
+root_dir = subprocess.check_output(cmd_root, shell = True).rstrip()
+
+# Get all unstaged and staged files that have been modified
+cmd_files = '{ git diff --name-only; git diff --name-only --staged; } | sort | uniq'
+changed_files = list(subprocess.check_output(cmd_files, shell = True).rstrip().split('\n'))
+
+# Filter out files withou the '_list.md' ending
+filtered_files = [f for f in changed_files if f.endswith('_list.md')]
+
+for f in filtered_files:
+    # sort_vocab requires the full file path
+    fpath = os.path.join(root_dir, f)
+
+    # Sort vocab
+    sort_vocab(fpath)
+
+    # Call 'git add' changed file
+    subprocess.check_output('git add ' + fpath, shell = True)
