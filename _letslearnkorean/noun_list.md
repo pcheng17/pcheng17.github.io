@@ -40,9 +40,11 @@ Vocab    | Definition
 회사원   | company employee
 경기     | competition
 조미료   | condiments
+편의점   | convenient store
 요리     | cuisine
 사전     | dictionary
 저녁     | dinner; evening
+거리     | distance
 문       | door
 시내     | downtown
 옷       | dress
@@ -57,10 +59,12 @@ Vocab    | Definition
 안경     | glasses
 물건     | goods
 모자     | hat
+마음     | heart
 휴가     | holiday
 고향     | hometown
 숙제     | homework
 집       | house, home
+남편     | husband
 재료     | ingredients
 관심     | interest
 초대     | invitation
@@ -90,10 +94,12 @@ Vocab    | Definition
 볼펜     | pen
 연필     | pencil
 후추     | pepper
+선격     | personality
 돼지고기 | pork
 가격     | price
 가성비   | price-to-performance ratio
 이유     | reason
+사이     | relation
 식당     | resturant
 반지     | ring (jewelry)
 강       | river
@@ -106,6 +112,7 @@ Vocab    | Definition
 참기름   | seasame oil
 계절     | season
 백화점   | shopping mall
+상황     | situation
 간장     | soy sauce
 봄       | spring
 스튜     | stew
@@ -118,7 +125,9 @@ Vocab    | Definition
 책상     | table
 태권도   | taekwondo
 차       | tea
+온도     | temperature
 시험     | test
+시간     | time
 기차     | train
 교통     | transportation
 과외     | tutoring
@@ -128,7 +137,9 @@ Vocab    | Definition
 경치     | view (scenery view)
 산책     | walk
 수박     | watermelon
+날씨     | weather
 평일     | weekday
 주말     | weekend
+아내     | wife
 장문     | window
 겨울     | winter

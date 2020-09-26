@@ -3,7 +3,7 @@ layout: single
 title: "Verbs"
 permalink: /letslearnkorean/verbs/
 excerpt: "A list of all the verbs I've learned so far"
-sidebar: 
+sidebar:
   nav: letslearnkorean
 ---
 
@@ -42,11 +42,13 @@ Vocab         | Definition
 끝나다        | to finish, to end
 살을 찌다     | to gain weight
 내리다        | to get off
+주다          | to give
 산책하다      | to go on a walk
 구경하다      | to go sightseeing
 회의하다      | to have a meeting
 돕다          | to help
 초대하다      | to invite
+알다          | to know
 배우다        | to learn
 떠나다        | to leave
 듣다          | to listen (ㄷ to ㄹ conjugation)
@@ -79,6 +81,7 @@ Vocab         | Definition
 보내다        | to spend (time), to send
 지내다        | to spend (time), to stay
 공부하다      | to study
+수영하다      | to swim
 데려가다      | to take (away)
 데려오다      | to take (here)
 시험을 보다   | to take an exam
@@ -86,6 +89,7 @@ Vocab         | Definition
 타다          | to take, to ride (e.g. the bus)
 얘기하다      | to tell
 알리다        | to tell, to let someone know
+생각하다      | to think
 갈아타다      | to transfer
 한승하다      | to transfer
 쓰다          | to use
@@ -94,4 +98,5 @@ Vocab         | Definition
 일어나다      | to wake up
 걷다          | to walk (ㄷ to ㄹ conjugation)
 세수하다      | to wash (face, brush teeth)
+물을 주다     | to water
 일하다        | to work
