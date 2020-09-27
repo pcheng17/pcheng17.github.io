@@ -53,7 +53,9 @@ Vocab    | Definition
 분위기   | environment, physical surroundings
 지우개   | eraser
 예문     | example
+눈       | eye
 볼고기   | fish
+난리     | fuss, mess
 나중     | future
 마늘     | garlic
 안경     | glasses
@@ -113,6 +115,7 @@ Vocab    | Definition
 계절     | season
 백화점   | shopping mall
 상황     | situation
+눈       | snow
 간장     | soy sauce
 봄       | spring
 스튜     | stew

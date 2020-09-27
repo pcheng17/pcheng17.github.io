@@ -17,6 +17,7 @@ Vocab    | Definition
 춥다     | to be cold
 편하다   | to be comfortable
 편리하다 | to be convenient
+궁금하다 | to be curious
 위험하다 | to be dangerous
 다르다   | to be different (달라요)
 비싸다   | to be expensive
@@ -45,6 +46,7 @@ Vocab    | Definition
 똑똑하다 | to be smart
 특별하다 | to be special
 맵다     | to be spicy
+맑다     | to be sunny
 높다     | to be tall
 똑같다   | to be the same
 두껍다   | to be thick
