@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Verbs"
-permalink: /letslearnkorean/verbs/
 excerpt: "A list of all the verbs I've learned so far"
+permalink: /letslearnkorean/verbs/
 sidebar:
   nav: letslearnkorean
 ---
@@ -24,6 +24,8 @@ Vocab         | Definition
 도전하다      | to challenge
 청소하다      | to clean
 닫다          | to close
+들다          | to come in, to enter
+연릭하다      | to contact
 요리하다      | to cook
 출발하다      | to depart
 설거지를 하다 | to do dishes

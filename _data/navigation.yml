@@ -1,7 +1,5 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Let's Learn Korean"
     url: /letslearnkorean/
   # - title: "About"
@@ -21,6 +19,8 @@ letslearnkorean:
         url: /letslearnkorean/nouns/
       - title: "Verbs"
         url: /letslearnkorean/verbs/
+      - title: "Phrases"
+        url: /letslearnkorean/phrases/
   - title: Grammar
     children:
       - title: "Conjugations"

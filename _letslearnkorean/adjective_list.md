@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "Adjectives"
-permalink: /letslearnkorean/adjectives/
 excerpt: "A list of all the adjectives I've learned so far"
+permalink: /letslearnkorean/adjectives/
 sidebar:
   nav: letslearnkorean
 ---
@@ -27,6 +27,7 @@ Vocab    | Definition
 덥다     | to be hot
 배고프다 | to be hungry
 재미있다 | to be interesting/fun
+적당하다 | to be just right
 친절하다 | to be kind
 게으르다 | to be lazy
 가볍다   | to be light
