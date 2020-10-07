@@ -17,7 +17,7 @@ def sort_vocab(src_path):
     with open(src_path, 'r') as file:
         for line in file:
             count += 1
-            if '| Definition' in line:
+            if '| Definition' in line or '| Meaning' in line:
                 # If '| Definition' is found, then we're at the first row of the
                 # table, which contains the column titles. Need to increment
                 # count one more time to account for the separator row.
