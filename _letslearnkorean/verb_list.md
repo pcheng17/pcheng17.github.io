@@ -59,6 +59,7 @@ Vocab         | Definition
 만들다        | to make
 전화하다      | to make a phone call
 만나다        | to meet
+이사하다      | to move (relocate)
 필요하다      | to need
 열리다        | to open
 정리하다      | to organize

@@ -13,9 +13,12 @@ Vocab     | Definition
 일본      | Japan
 비행기    | airplane
 공항      | airport
+술        | alcohol
+아로마    | aroma
 가을      | autumn
 배경      | background
 가방      | bag/backpack
+은행      | bank
 야구      | baseball
 콩나물    | bean sprouts
 소고기    | beef
@@ -28,6 +31,7 @@ Vocab     | Definition
 건물      | building
 카페      | cafe
 카메라    | camera
+향초      | candle
 핸드폰    | cell phone
 의자      | chair
 닭고기    | chicken
@@ -44,7 +48,9 @@ Vocab     | Definition
 조미료    | condiments
 편리점    | convenience store
 요리      | cuisine
+세제      | detergent
 사전      | dictionary
+디퓨저    | diffuser
 저녁      | dinner; evening
 거리      | distance
 문        | door
@@ -56,6 +62,7 @@ Vocab     | Definition
 분위기    | environment, physical surroundings
 지우개    | eraser
 예문      | example
+추억      | experience
 외부      | exterior, outside
 눈        | eye
 볼고기    | fish
@@ -72,18 +79,23 @@ Vocab     | Definition
 고향      | hometown
 숙제      | homework
 집        | house, home
+집들이    | house-warming party
 남편      | husband
 재료      | ingredients
+라면      | instant noodle
 관심      | interest
 초대      | invitation
 섬        | island
 양고기    | lamb
+편지      | letter
 저심      | lunch
 집지      | magazine
 주인공    | main character
 지도      | map
 시장      | market
 마트      | mart
+기억      | memory
+문자      | message
 영화      | movie
 영화배우  | movie actor/actress
 영화관    | movie theater
@@ -97,6 +109,7 @@ Vocab     | Definition
 공책      | notebook
 노트      | notebook
 양파      | onion
+택배      | parcel, package
 공원      | park
 여권      | passport
 볼펜      | pen
@@ -107,6 +120,7 @@ Vocab     | Definition
 가격      | price
 가성비    | price-to-performance ratio
 토끼      | rabbit
+라멘      | ramen
 이유      | reason
 사이      | relation
 식당      | resturant
@@ -140,6 +154,7 @@ Vocab     | Definition
 온도      | temperature
 시험      | test
 시간      | time
+휴지      | tissue
 기차      | train
 교통      | transportation
 과외      | tutoring
@@ -154,4 +169,5 @@ Vocab     | Definition
 주말      | weekend
 아내      | wife
 장문      | window
+와인      | wine
 겨울      | winter
