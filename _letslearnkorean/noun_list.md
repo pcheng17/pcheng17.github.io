@@ -11,9 +11,12 @@ Vocab     | Definition
 -----     | ----------
 영국      | England
 일본      | Japan
+주소      | address
 비행기    | airplane
 공항      | airport
 술        | alcohol
+아파트    | apartment
+외모      | appearance
 아로마    | aroma
 가을      | autumn
 배경      | background
@@ -24,11 +27,13 @@ Vocab     | Definition
 소고기    | beef
 자전거    | bicycle
 생일      | birthday
+청경채    | bok choy
 책        | book
 팔지      | bracelet
 아짐      | breakfast; morning
 막국수    | buckweat noodle
 건물      | building
+양배추    | cabbage
 카페      | cafe
 카메라    | camera
 향초      | candle
@@ -42,9 +47,11 @@ Vocab     | Definition
 시계      | clock, watch
 커피      | coffee
 커피숖    | coffee shop
+색깔      | color
 회사      | company
 회사원    | company employee
 경기      | competition
+결과      | conclusion
 조미료    | condiments
 편리점    | convenience store
 요리      | cuisine
@@ -54,6 +61,7 @@ Vocab     | Definition
 저녁      | dinner; evening
 거리      | distance
 문        | door
+쌍꺼풀    | double eyelid
 시내      | downtown
 옷        | dress
 오리 고기 | duck (meat)
@@ -65,8 +73,11 @@ Vocab     | Definition
 추억      | experience
 외부      | exterior, outside
 눈        | eye
+눈썹      | eyebrows
+인기      | fame
 볼고기    | fish
 밀가루    | flour
+이마      | forehead
 난리      | fuss, mess
 나중      | future
 마늘      | garlic
@@ -75,19 +86,23 @@ Vocab     | Definition
 물건      | goods
 모자      | hat
 마음      | heart
+키        | height
 휴가      | holiday
 고향      | hometown
 숙제      | homework
 집        | house, home
 집들이    | house-warming party
 남편      | husband
+이상형    | ideal type
 재료      | ingredients
 라면      | instant noodle
 관심      | interest
+통역사    | interpretor
 초대      | invitation
 섬        | island
 양고기    | lamb
 편지      | letter
+입슬      | lips
 저심      | lunch
 집지      | magazine
 주인공    | main character
@@ -96,6 +111,7 @@ Vocab     | Definition
 마트      | mart
 기억      | memory
 문자      | message
+입        | mouth
 영화      | movie
 영화배우  | movie actor/actress
 영화관    | movie theater
@@ -105,6 +121,7 @@ Vocab     | Definition
 목걸이    | necklace
 신문      | news, newspaper
 야시장    | night market
+코        | nose
 코피      | nosebleed
 공책      | notebook
 노트      | notebook
@@ -122,13 +139,16 @@ Vocab     | Definition
 토끼      | rabbit
 라멘      | ramen
 이유      | reason
+냉장고    | refrigerator
 사이      | relation
+답장      | reply
 식당      | resturant
 반지      | ring (jewelry)
 강        | river
 방        | room
 소금      | salt
 목도리    | scarf
+장학금    | scholarship
 학교      | school
 방학      | school holiday
 개강      | school start
@@ -136,10 +156,13 @@ Vocab     | Definition
 참기름    | seasame oil
 계절      | season
 백화점    | shopping mall
+어깨      | shoulders
 상황      | situation
 달팽이    | snail
 눈        | snow
+눈치      | social awareness
 간장      | soy sauce
+말하기    | speech
 봄        | spring
 스튜      | stew
 찌개      | stew
@@ -148,6 +171,7 @@ Vocab     | Definition
 지하철    | subway
 설탕      | sugar
 여름      | summer
+수술      | surgery
 책상      | table
 태권도    | taekwondo
 차        | tea
@@ -156,6 +180,7 @@ Vocab     | Definition
 시간      | time
 휴지      | tissue
 기차      | train
+번역사    | translator
 교통      | transportation
 과외      | tutoring
 우산      | umbrella

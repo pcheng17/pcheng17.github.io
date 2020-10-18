@@ -58,3 +58,4 @@ Vocab     | Definition
 얇다      | to be thin
 유행하다  | to be trendy
 따뜻하다  | to be warm
+이상하아  | to be weird
