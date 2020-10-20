@@ -9,7 +9,6 @@ sidebar:
 
 Vocab     | Definition
 -----     | ----------
-
 아름답다  | to be beautiful
 크다      | to be big
 행복하다  | to be blissful
