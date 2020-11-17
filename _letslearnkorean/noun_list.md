@@ -12,12 +12,14 @@ Vocab     | Definition
 영국      | England
 일본      | Japan
 주소      | address
+어른      | adult
 비행기    | airplane
 공항      | airport
 술        | alcohol
 아파트    | apartment
 외모      | appearance
 아로마    | aroma
+선수      | athlete
 가을      | autumn
 배경      | background
 가방      | bag/backpack
@@ -31,6 +33,7 @@ Vocab     | Definition
 책        | book
 팔지      | bracelet
 아짐      | breakfast; morning
+형재      | brother
 막국수    | buckweat noodle
 건물      | building
 양배추    | cabbage
@@ -74,6 +77,7 @@ Vocab     | Definition
 외부      | exterior, outside
 눈        | eye
 눈썹      | eyebrows
+얼굴      | face
 인기      | fame
 볼고기    | fish
 밀가루    | flour
@@ -84,6 +88,8 @@ Vocab     | Definition
 모임      | gathering
 안경      | glasses
 물건      | goods
+졸업식    | graduation
+머리 모양 | hairstyle
 모자      | hat
 마음      | heart
 키        | height
@@ -100,6 +106,7 @@ Vocab     | Definition
 통역사    | interpretor
 초대      | invitation
 섬        | island
+어린      | kid
 양고기    | lamb
 편지      | letter
 입슬      | lips
@@ -127,6 +134,7 @@ Vocab     | Definition
 노트      | notebook
 양파      | onion
 택배      | parcel, package
+부모님    | parents
 공원      | park
 여권      | passport
 볼펜      | pen
@@ -157,7 +165,9 @@ Vocab     | Definition
 계절      | season
 백화점    | shopping mall
 어깨      | shoulders
+자매      | sister
 상황      | situation
+잠        | sleep
 달팽이    | snail
 눈        | snow
 눈치      | social awareness
@@ -172,6 +182,7 @@ Vocab     | Definition
 설탕      | sugar
 여름      | summer
 수술      | surgery
+수영      | swimming
 책상      | table
 태권도    | taekwondo
 차        | tea

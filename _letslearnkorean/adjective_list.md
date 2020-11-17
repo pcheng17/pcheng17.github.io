@@ -16,6 +16,7 @@ Vocab      | Definition
 심심하다   | to be boring
 바쁘다     | to be busy
 싸다       | to be cheap
+친하다     | to be close
 춥다       | to be cold
 편하다     | to be comfortable
 편리하다   | to be convenient
@@ -45,12 +46,14 @@ Vocab      | Definition
 꼼꼼하다   | to be meticulous
 새롭다     | to be new
 시끄럽다   | to be noisy
+어르다     | to be old
 예쁘다     | to be pretty
 조용하다   | to be quiet
 시원하다   | to be refreshing
 만족하다   | to be satisfied
 낮다       | to be short (height)
 짧다       | to be short (length)
+닮다       | to be similar
 비슷하다   | to be similar
 간단하다   | to be simple
 잠이 오다  | to be sleepy (e.g. knodding off)

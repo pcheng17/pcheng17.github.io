@@ -10,6 +10,7 @@ sidebar:
 Vocab         | Definition
 -----         | ----------
 답하다        | to answer
+생기다        | to appear, to look like
 신청하다      | to apply
 도착하다      | to arrive
 한가하다      | to be free, to not be busy
@@ -22,6 +23,7 @@ Vocab         | Definition
 우연히 만나다 | to bump into
 사다          | to buy
 도전하다      | to challenge
+바꾸다        | to change
 청소하다      | to clean
 닫다          | to close
 들다          | to come in, to enter
@@ -35,7 +37,6 @@ Vocab         | Definition
 운전하다      | to drive
 밥을 먹다     | to eat rice
 즐겁다        | to enjoy
-바꾸다        | to exchange
 환전하다      | to exchange money
 운동하다      | to exercise
 기대하다      | to expect
@@ -47,6 +48,7 @@ Vocab         | Definition
 주다          | to give
 산책하다      | to go on a walk
 구경하다      | to go sightseeing
+졸업하다      | to graduate
 회의하다      | to have a meeting
 돕다          | to help
 초대하다      | to invite
