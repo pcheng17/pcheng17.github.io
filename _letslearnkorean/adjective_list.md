@@ -19,6 +19,7 @@ Vocab      | Definition
 친하다     | to be close
 춥다       | to be cold
 편하다     | to be comfortable
+복잡하다   | to be complicated
 편리하다   | to be convenient
 멋있다     | to be cool
 궁금하다   | to be curious
@@ -30,6 +31,9 @@ Vocab      | Definition
 배부르다   | to be full (present tense: 배불러요)
 여성적이다 | to be girly
 기쁘다     | to be happy
+유해하다   | to be harmful
+무해하다   | to be harmless
+건강하다   | to be healthy
 무겁다     | to be heavy
 덥다       | to be hot
 배고프다   | to be hungry
@@ -56,6 +60,7 @@ Vocab      | Definition
 닮다       | to be similar
 비슷하다   | to be similar
 간단하다   | to be simple
+단순하다   | to be simple
 잠이 오다  | to be sleepy (e.g. knodding off)
 날씬하다   | to be slim
 작다       | to be small
@@ -69,6 +74,7 @@ Vocab      | Definition
 두껍다     | to be thick
 얇다       | to be thin
 유행하다   | to be trendy
+불편하다   | to be uncomfortable
 급하다     | to be urgent, rushed, fast
 따뜻하다   | to be warm
 이상하아   | to be weird

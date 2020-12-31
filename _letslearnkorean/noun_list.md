@@ -13,6 +13,7 @@ Vocab     | Definition
 일본      | Japan
 주소      | address
 어른      | adult
+공기      | air
 비행기    | airplane
 공항      | airport
 술        | alcohol
@@ -29,6 +30,7 @@ Vocab     | Definition
 소고기    | beef
 자전거    | bicycle
 생일      | birthday
+블루베리  | blueberry
 청경채    | bok choy
 책        | book
 팔지      | bracelet
@@ -40,6 +42,7 @@ Vocab     | Definition
 카페      | cafe
 카메라    | camera
 향초      | candle
+당근      | carrot
 핸드폰    | cell phone
 의자      | chair
 닭고기    | chicken
@@ -56,6 +59,7 @@ Vocab     | Definition
 경기      | competition
 결과      | conclusion
 조미료    | condiments
+계약      | contract
 편리점    | convenience store
 요리      | cuisine
 세제      | detergent
@@ -109,6 +113,7 @@ Vocab     | Definition
 어린      | kid
 양고기    | lamb
 편지      | letter
+상추      | lettuce
 입슬      | lips
 저심      | lunch
 집지      | magazine
@@ -149,6 +154,7 @@ Vocab     | Definition
 이유      | reason
 냉장고    | refrigerator
 사이      | relation
+구리기사  | repairman
 답장      | reply
 식당      | resturant
 반지      | ring (jewelry)
@@ -165,6 +171,7 @@ Vocab     | Definition
 계절      | season
 백화점    | shopping mall
 어깨      | shoulders
+세면대    | sink, basin
 자매      | sister
 상황      | situation
 잠        | sleep
@@ -196,8 +203,10 @@ Vocab     | Definition
 과외      | tutoring
 우산      | umbrella
 대학교    | university
+휴가      | vacation
 야재      | vegetable
 경치      | view (scenery view)
+전망      | view, outlook
 산책      | walk
 수박      | watermelon
 날씨      | weather
@@ -207,3 +216,4 @@ Vocab     | Definition
 장문      | window
 와인      | wine
 겨울      | winter
+요그르트  | yogurt

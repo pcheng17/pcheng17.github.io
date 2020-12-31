@@ -22,6 +22,7 @@ Vocab         | Definition
 가져오다      | to bring (here)
 우연히 만나다 | to bump into
 사다          | to buy
+부르다        | to call, to sing (불러요)
 도전하다      | to challenge
 바꾸다        | to change
 청소하다      | to clean
@@ -45,6 +46,7 @@ Vocab         | Definition
 끝나다        | to finish, to end
 살을 찌다     | to gain weight
 내리다        | to get off
+막히다        | to get stuck
 주다          | to give
 산책하다      | to go on a walk
 구경하다      | to go sightseeing
@@ -60,6 +62,7 @@ Vocab         | Definition
 살을 빠지다   | to lose weight
 만들다        | to make
 전화하다      | to make a phone call
+떠들다        | to make noise
 만나다        | to meet
 이사하다      | to move (relocate)
 필요하다      | to need
@@ -75,6 +78,7 @@ Vocab         | Definition
 읽다          | to read
 받다          | to receive
 추천하다      | to recommend
+수리하다      | to repair
 쉬다          | to rest
 돌아가다      | to return (away)
 돌다오다      | to return (here)
@@ -86,6 +90,7 @@ Vocab         | Definition
 보내다        | to spend (time), to send
 지내다        | to spend (time), to stay
 공부하다      | to study
+맞다          | to suit
 수영하다      | to swim
 데려가다      | to take (away)
 데려오다      | to take (here)
