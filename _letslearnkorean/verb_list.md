@@ -13,8 +13,10 @@ Vocab         | Definition
 생기다        | to appear, to look like
 신청하다      | to apply
 도착하다      | to arrive
+가능하다      | to be able to
 한가하다      | to be free, to not be busy
 초대를 받다   | to be invited (to receive an invitation)
+근무하다      | to be on duty
 되다          | to become
 예약하다      | to book (hotel, restaurant)
 예매하다      | to book (tickets)
@@ -58,12 +60,15 @@ Vocab         | Definition
 배우다        | to learn
 떠나다        | to leave
 듣다          | to listen (ㄷ to ㄹ conjugation)
+구하다        | to look for
 기대가 되다   | to look forward to
 살을 빠지다   | to lose weight
 만들다        | to make
+결정하다      | to make a decision
 전화하다      | to make a phone call
 떠들다        | to make noise
 만나다        | to meet
+옮기다        | to move (an object)
 이사하다      | to move (relocate)
 필요하다      | to need
 열리다        | to open
@@ -85,6 +90,7 @@ Vocab         | Definition
 복습하다      | to review
 헤어지다      | to say goodbye, to part
 보다          | to see
+팔다          | to sell
 사워하다      | to shower
 자다          | to sleep
 보내다        | to spend (time), to send

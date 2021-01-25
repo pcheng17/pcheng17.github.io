@@ -31,6 +31,7 @@ Vocab     | Definition
 자전거    | bicycle
 생일      | birthday
 블루베리  | blueberry
+하숙집    | boarding house
 청경채    | bok choy
 책        | book
 팔지      | bracelet
@@ -48,6 +49,8 @@ Vocab     | Definition
 닭고기    | chicken
 선택      | choice, selection, option
 극장      | cinema
+도시      | city
+게        | clam
 수업      | class
 반        | class (of people)
 시계      | clock, watch
@@ -68,6 +71,7 @@ Vocab     | Definition
 저녁      | dinner; evening
 거리      | distance
 문        | door
+기숙사    | dorm
 쌍꺼풀    | double eyelid
 시내      | downtown
 옷        | dress
@@ -93,6 +97,7 @@ Vocab     | Definition
 안경      | glasses
 물건      | goods
 졸업식    | graduation
+헬스장    | gym
 머리 모양 | hairstyle
 모자      | hat
 마음      | heart
@@ -115,6 +120,7 @@ Vocab     | Definition
 편지      | letter
 상추      | lettuce
 입슬      | lips
+전제      | long-term deposit
 저심      | lunch
 집지      | magazine
 주인공    | main character
@@ -169,6 +175,7 @@ Vocab     | Definition
 점수      | score
 참기름    | seasame oil
 계절      | season
+자리      | seat
 백화점    | shopping mall
 어깨      | shoulders
 세면대    | sink, basin
@@ -185,6 +192,7 @@ Vocab     | Definition
 찌개      | stew
 스토리    | story
 딸기      | strawberry
+유학      | study abroad
 지하철    | subway
 설탕      | sugar
 여름      | summer
@@ -216,4 +224,5 @@ Vocab     | Definition
 장문      | window
 와인      | wine
 겨울      | winter
+재택근무  | work from home
 요그르트  | yogurt

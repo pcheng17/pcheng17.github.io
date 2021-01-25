@@ -55,6 +55,7 @@ Vocab      | Definition
 조용하다   | to be quiet
 시원하다   | to be refreshing
 만족하다   | to be satisfied
+심하다     | to be serious
 낮다       | to be short (height)
 짧다       | to be short (length)
 닮다       | to be similar
@@ -79,3 +80,4 @@ Vocab      | Definition
 따뜻하다   | to be warm
 이상하아   | to be weird
 어리다     | to be young
+다양하다   | to have variety
