@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -20,7 +20,7 @@ title                    : "Peter Blogs"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Peter Blogs"
-description              : 
+description              :
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-paper-plane"
-      # url: 
+      # url:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       # url: "https://www.linkedin.com/"
