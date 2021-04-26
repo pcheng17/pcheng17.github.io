@@ -220,7 +220,7 @@ sidebar:
 | 우산      | umbrella                           |
 | 대학교    | university                         |
 | 휴가      | vacation                           |
-| 야재      | vegetable                          |
+| 야채      | vegetable                          |
 | 전망      | view, outlook                      |
 | 경치      | view (scenery view)                |
 | 산책      | walk                               |
