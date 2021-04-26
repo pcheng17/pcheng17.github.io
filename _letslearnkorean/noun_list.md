@@ -16,6 +16,7 @@ sidebar:
 | 비행기    | airplane                           |
 | 공항      | airport                            |
 | 술        | alcohol                            |
+| 아무거나  | anything                           |
 | 아파트    | apartment                          |
 | 외모      | appearance                         |
 | 아로마    | aroma                              |
@@ -146,6 +147,7 @@ sidebar:
 | 코        | nose                               |
 | 코피      | nosebleed                          |
 | 공책      | notebook                           |
+| 아무것도  | nothing                            |
 | 양파      | onion                              |
 | 택배      | parcel, package                    |
 | 부모님    | parents                            |
