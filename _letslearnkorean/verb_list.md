@@ -25,6 +25,7 @@ sidebar:
 | 우연히 만나다 | to bump into                             |
 | 사다          | to buy                                   |
 | 부르다        | to call, to sing (불러요)                |
+| 잡다          | to catch (a ball)                        |
 | 도전하다      | to challenge                             |
 | 바꾸다        | to change                                |
 | 청소하다      | to clean                                 |
@@ -49,12 +50,14 @@ sidebar:
 | 찾다          | to find, to withdraw                     |
 | 끝나다        | to finish, to end                        |
 | 살을 찌다     | to gain weight                           |
+| 취직하다      | to get a job                             |
 | 내리다        | to get off                               |
 | 막히다        | to get stuck                             |
 | 주다          | to give                                  |
 | 산책하다      | to go on a walk                          |
 | 구경하다      | to go sightseeing                        |
 | 졸업하다      | to graduate                              |
+| 걸다          | to hang                                  |
 | 회의하다      | to have a meeting                        |
 | 돕다          | to help                                  |
 | 초대하다      | to invite                                |
@@ -97,6 +100,7 @@ sidebar:
 | 팔다          | to sell                                  |
 | 사워하다      | to shower                                |
 | 자다          | to sleep                                 |
+| 걸리다        | to spend (time), to catch (a cold)       |
 | 보내다        | to spend (time), to send                 |
 | 지내다        | to spend (time), to stay                 |
 | 정지하다      | to stop                                  |
@@ -107,6 +111,7 @@ sidebar:
 | 데려가다      | to take (away)                           |
 | 데려오다      | to take (here)                           |
 | 찍다          | to take pictures                         |
+| 가지다        | to take, to hold                         |
 | 타다          | to take, to ride (e.g. the bus)          |
 | 얘기하다      | to tell                                  |
 | 알리다        | to tell, to let someone know             |

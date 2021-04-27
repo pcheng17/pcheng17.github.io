@@ -21,14 +21,14 @@ letslearnkorean:
         url: /letslearnkorean/verbs/
       - title: "Phrases"
         url: /letslearnkorean/phrases/
-      - title: "Topics"
-        children:
-          - title: "Medicine"
-            url: /letslearnkorean/topics/medicine/
   - title: Grammar
     children:
       - title: "Conjugations"
         url: /letslearnkorean/conjugations/
       - title: "Constructions"
         url: /letslearnkorean/constructions/
+  - title: "Topics"
+    children:
+      - title: "Medicine"
+        url: /letslearnkorean/medicine/
 
