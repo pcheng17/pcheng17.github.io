@@ -21,6 +21,10 @@ letslearnkorean:
         url: /letslearnkorean/verbs/
       - title: "Phrases"
         url: /letslearnkorean/phrases/
+      - title: "Topics"
+        children:
+          - title: "Medicine"
+            url: /letslearnkorean/topics/medicine/
   - title: Grammar
     children:
       - title: "Conjugations"
