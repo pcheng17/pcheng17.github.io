@@ -8,6 +8,7 @@ sidebar:
 ---
 
 ## Medical Departments
+
 | Vocab      | Definition        |
 | ---------- | ----------------- |
 | 내과       | internal medicine |
@@ -18,6 +19,7 @@ sidebar:
 | 이비인후과 | otolaryngology    |
 
 ## Symptoms
+
 | Vocab            | Definition                      |
 | ---------------- | ------------------------------- |
 | 속이 안 좋다     | to not feel well inside         |
