@@ -4,7 +4,7 @@ title: "Verbs"
 excerpt: "Verbs"
 permalink: /verbs/
 sidebar:
-  nav: letslearnkorean
+  nav: korean
 ---
 
 | Vocab         | Definition                               |

@@ -4,7 +4,7 @@ title: "Adjectives"
 excerpt: "Adjectives"
 permalink: /adjectives/
 sidebar:
-  nav: letslearnkorean
+  nav: korean
 ---
 
 | Vocab      | Definition                           |

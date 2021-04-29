@@ -4,10 +4,10 @@ title: "Miscellaneous"
 excerpt: "Miscellaneous words that don't really fit into other lists"
 permalink: /miscellaneous/
 sidebar:
-  nav: letslearnkorean
+  nav: korean
 ---
 
 | Vocab | Definition |
 | ----- | ---------- |
-| 도    | also       |
 | 또    | again      |
+| 도    | also       |

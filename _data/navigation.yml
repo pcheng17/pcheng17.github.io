@@ -1,7 +1,7 @@
 # main links
 main:
-  # - title: "Let's Learn Korean"
-  #   url: /letslearnkorean/
+  # - title: "Korean Journal"
+  #   url: /korean/
   # - title: "About"
   #  url: /about/
   # - title: "Sample Collections"
@@ -10,7 +10,7 @@ main:
   #   url: /sitemap/
 
 # Korean links
-letslearnkorean:
+korean:
   - title: Vocabulary
     children:
       - title: "Adjectives"

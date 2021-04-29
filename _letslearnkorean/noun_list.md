@@ -4,7 +4,7 @@ title: "Nouns"
 excerpt: "Nouns"
 permalink: /nouns/
 sidebar:
-  nav: letslearnkorean
+  nav: korean
 ---
 
 | Vocab     | Definition                         |

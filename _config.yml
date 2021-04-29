@@ -148,7 +148,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _letslearnkorean
+  - _korean
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

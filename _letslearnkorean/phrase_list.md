@@ -4,7 +4,7 @@ title: "Phrases"
 excerpt: "Phrases that seem important to know"
 permalink: /phrases/
 sidebar:
-  nav: letslearnkorean
+  nav: korean
 ---
 
 Phrase           | Meaning

@@ -4,7 +4,7 @@ title: "Medicine"
 excerpt: "Vocab related to medicine"
 permalink: /medicine/
 sidebar:
-  nav: letslearnkorean
+  nav: korean
 ---
 
 ## Medical Departments

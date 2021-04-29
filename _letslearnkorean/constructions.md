@@ -4,7 +4,7 @@ title: "Constructions"
 excerpt: "Grammar constructions"
 permalink: /constructions/
 sidebar:
-  nav: letslearnkorean
+  nav: korean
 ---
 
 [~ㄹ/을 수
