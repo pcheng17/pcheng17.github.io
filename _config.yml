@@ -149,6 +149,7 @@ include:
   - .htaccess
   - _pages
   - _korean
+  - _dadjokes
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
