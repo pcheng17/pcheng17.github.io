@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Adjectives"
-excerpt: "A list of all the adjectives I've learned so far"
+excerpt: "Adjectives"
 permalink: /adjectives/
 sidebar:
   nav: letslearnkorean

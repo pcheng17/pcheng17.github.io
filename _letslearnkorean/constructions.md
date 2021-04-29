@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Constructions"
-excerpt: "A list of grammar constructions"
+excerpt: "Grammar constructions"
 permalink: /constructions/
 sidebar:
   nav: letslearnkorean
