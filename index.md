@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Let's Learn Korean"
+title: "Korean Journal"
 sidebar:
   nav: letslearnkorean
 ---

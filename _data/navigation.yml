@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Let's Learn Korean"
-    url: /letslearnkorean/
+  # - title: "Let's Learn Korean"
+  #   url: /letslearnkorean/
   # - title: "About"
   #  url: /about/
   # - title: "Sample Collections"
@@ -31,4 +31,3 @@ letslearnkorean:
     children:
       - title: "Medicine"
         url: /letslearnkorean/medicine/
-
