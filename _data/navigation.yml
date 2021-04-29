@@ -14,20 +14,20 @@ letslearnkorean:
   - title: Vocabulary
     children:
       - title: "Adjectives"
-        url: /letslearnkorean/adjectives/
+        url: /adjectives/
       - title: "Nouns"
-        url: /letslearnkorean/nouns/
+        url: /nouns/
       - title: "Verbs"
-        url: /letslearnkorean/verbs/
+        url: /verbs/
       - title: "Phrases"
-        url: /letslearnkorean/phrases/
+        url: /phrases/
   - title: Grammar
     children:
       - title: "Conjugations"
-        url: /letslearnkorean/conjugations/
+        url: /conjugations/
       - title: "Constructions"
-        url: /letslearnkorean/constructions/
+        url: /constructions/
   - title: "Topics"
     children:
       - title: "Medicine"
-        url: /letslearnkorean/medicine/
+        url: /medicine/
