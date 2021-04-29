@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Phrases"
-excerpt: "Pharses that seem important to know"
+excerpt: "Phrases that seem important to know"
 permalink: /phrases/
 sidebar:
   nav: letslearnkorean
