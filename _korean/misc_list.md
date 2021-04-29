@@ -7,7 +7,10 @@ sidebar:
   nav: korean
 ---
 
-| Vocab | Definition |
-| ----- | ---------- |
-| 또    | again      |
-| 도    | also       |
+| Vocab  | Definition |
+| ------ | ---------- |
+| 또     | again      |
+| 도     | also       |
+| 누구나 | anyone     |
+| 언제나 | anytime    |
+| 어디나 | anywhere   |

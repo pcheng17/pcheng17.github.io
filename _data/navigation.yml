@@ -25,8 +25,8 @@ korean:
         url: /miscellaneous/
   - title: Grammar
     children:
-      - title: "Conjugations"
-        url: /conjugations/
+      # - title: "Conjugations"
+      #   url: /conjugations/
       - title: "Constructions"
         url: /constructions/
   - title: "Topics"
