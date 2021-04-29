@@ -2,7 +2,7 @@
 layout: single
 title: "Verbs"
 excerpt: "A list of all the verbs I've learned so far"
-permalink: /letslearnkorean/verbs/
+permalink: /verbs/
 sidebar:
   nav: letslearnkorean
 ---

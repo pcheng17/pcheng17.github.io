@@ -2,7 +2,7 @@
 layout: single
 title: "Phrases"
 excerpt: "A list of phrases that seem important to know"
-permalink: /letslearnkorean/phrases/
+permalink: /phrases/
 sidebar:
   nav: letslearnkorean
 ---

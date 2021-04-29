@@ -2,7 +2,7 @@
 layout: single
 title: "Medicine"
 excerpt: "Vocab related to medicine"
-permalink: /letslearnkorean/medicine/
+permalink: /medicine/
 sidebar:
   nav: letslearnkorean
 ---

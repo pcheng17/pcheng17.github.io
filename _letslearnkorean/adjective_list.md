@@ -2,7 +2,7 @@
 layout: single
 title: "Adjectives"
 excerpt: "A list of all the adjectives I've learned so far"
-permalink: /letslearnkorean/adjectives/
+permalink: /adjectives/
 sidebar:
   nav: letslearnkorean
 ---

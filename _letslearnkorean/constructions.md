@@ -2,7 +2,7 @@
 layout: single
 title: "Constructions"
 excerpt: "A list of grammar constructions"
-permalink: /letslearnkorean/constructions/
+permalink: /constructions/
 sidebar:
   nav: letslearnkorean
 ---
