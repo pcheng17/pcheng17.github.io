@@ -21,6 +21,8 @@ letslearnkorean:
         url: /verbs/
       - title: "Phrases"
         url: /phrases/
+      - title: "Miscellaneous"
+        url: /miscellaneous/
   - title: Grammar
     children:
       - title: "Conjugations"
