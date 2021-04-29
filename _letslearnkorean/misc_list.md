@@ -2,7 +2,7 @@
 layout: single
 title: "Miscellaneous"
 excerpt: "Miscellaneous words that don't really fit into other lists"
-permalink: /phrases/
+permalink: /miscellaneous/
 sidebar:
   nav: letslearnkorean
 ---
