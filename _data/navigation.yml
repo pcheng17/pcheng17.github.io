@@ -11,6 +11,10 @@ main:
 
 # Korean links
 korean:
+  - title: iTalki
+    childern:
+      - title: "Journal"
+        url: /journal/
   - title: Vocabulary
     children:
       - title: "Adjectives"
