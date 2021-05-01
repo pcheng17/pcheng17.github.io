@@ -22,6 +22,10 @@ sidebar:
 
 ### Verbs
 
+| Vocab | Definition |
+| ----- | ---------- |
+| 잡다  | to grab    |
+
 ### Adjectives
 
 ### Miscellaneous
