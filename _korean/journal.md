@@ -39,7 +39,7 @@ sidebar:
 | 잡다     | to grab, to catch      |
 | 재배하다 | to grow                |
 | 의미하다 | to mean                |
-| 그립다   | to miss                |
+| 그립다   | to miss, to long for   |
 | 심다     | to plant               |
 | 올리다   | to raise               |
 | 기록하다 | to record, to document |

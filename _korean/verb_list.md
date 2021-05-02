@@ -80,7 +80,7 @@ sidebar:
 | 떠들다        | to make noise                            |
 | 의미하다      | to mean                                  |
 | 만나다        | to meet                                  |
-| 그립다        | to miss                                  |
+| 그립다        | to miss, to long for                     |
 | 옮기다        | to move (an object)                      |
 | 이사하다      | to move (relocate)                       |
 | 필요하다      | to need                                  |
