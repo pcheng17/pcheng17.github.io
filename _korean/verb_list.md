@@ -9,6 +9,7 @@ sidebar:
 
 | Vocab         | Definition                               |
 | ------------- | ---------------------------------------- |
+| 계시다        | honorific of 있다                        |
 | 답하다        | to answer                                |
 | 생기다        | to appear, to look like                  |
 | 신청하다      | to apply                                 |
@@ -39,6 +40,7 @@ sidebar:
 | 설거지를 하다 | to do dishes                             |
 | 장을 보다     | to do groceries                          |
 | 빨래하다      | to do laundry                            |
+| 그리다        | to draw                                  |
 | 마시다        | to drink                                 |
 | 운전하다      | to drive                                 |
 | 밥을 먹다     | to eat rice                              |
@@ -47,6 +49,7 @@ sidebar:
 | 운동하다      | to exercise                              |
 | 기대하다      | to expect                                |
 | 빠지다        | to fall into (especially water)          |
+| 느끼다        | to feel                                  |
 | 찾다          | to find, to withdraw                     |
 | 끝나다        | to finish, to end                        |
 | 살을 찌다     | to gain weight                           |
@@ -56,7 +59,9 @@ sidebar:
 | 주다          | to give                                  |
 | 산책하다      | to go on a walk                          |
 | 구경하다      | to go sightseeing                        |
+| 잡다          | to grab, to catch                        |
 | 졸업하다      | to graduate                              |
+| 재배하다      | to grow                                  |
 | 걸다          | to hang                                  |
 | 회의하다      | to have a meeting                        |
 | 돕다          | to help                                  |
@@ -73,7 +78,9 @@ sidebar:
 | 실수하다      | to make a mistake                        |
 | 전화하다      | to make a phone call                     |
 | 떠들다        | to make noise                            |
+| 의미하다      | to mean                                  |
 | 만나다        | to meet                                  |
+| 그립다        | to miss                                  |
 | 옮기다        | to move (an object)                      |
 | 이사하다      | to move (relocate)                       |
 | 필요하다      | to need                                  |
@@ -82,14 +89,17 @@ sidebar:
 | 실례하다      | to parden                                |
 | 쓰다듬다      | to pat                                   |
 | 계획하다      | to plan                                  |
+| 심다          | to plant                                 |
 | 연습하다      | to practice                              |
 | 준비하다      | to prepare                               |
 | 약속하다      | to promise                               |
 | 격리하다      | to quarantine                            |
 | 비가 오다     | to rain (literally, the rain comes)      |
+| 올리다        | to raise                                 |
 | 읽다          | to read                                  |
 | 받다          | to receive                               |
 | 추천하다      | to recommend                             |
+| 기록하다      | to record, to document                   |
 | 수리하다      | to repair                                |
 | 쉬다          | to rest                                  |
 | 돌아가다      | to return (away)                         |

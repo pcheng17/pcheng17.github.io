@@ -21,15 +21,18 @@ sidebar:
 | 외모      | appearance                         |
 | 아로마    | aroma                              |
 | 선수      | athlete                            |
+| 분위기    | atmosphere                         |
 | 가을      | autumn                             |
 | 배경      | background                         |
 | 가방      | bag/backpack                       |
+| 공        | ball                               |
 | 은행      | bank                               |
 | 야구      | baseball                           |
 | 콩나물    | bean sprouts                       |
 | 소고기    | beef                               |
 | 자전거    | bicycle                            |
 | 생일      | birthday                           |
+| 블로그    | blog                               |
 | 블루베리  | blueberry                          |
 | 하숙집    | boarding house                     |
 | 청경채    | bok choy                           |
@@ -81,14 +84,17 @@ sidebar:
 | 영국      | England                            |
 | 분위기    | environment, physical surroundings |
 | 지우개    | eraser                             |
+| 행사      | event                              |
 | 예문      | example                            |
 | 추억      | experience                         |
 | 외부      | exterior, outside                  |
 | 눈        | eye                                |
 | 눈썹      | eyebrows                           |
 | 얼굴      | face                               |
+| 단풍      | fall foliage                       |
 | 인기      | fame                               |
 | 전투기    | fighter plane                      |
+| 돌잔치    | first birthday                     |
 | 볼고기    | fish                               |
 | 밀가루    | flour                              |
 | 이마      | forehead                           |
@@ -117,6 +123,7 @@ sidebar:
 | 통역사    | interpretor                        |
 | 초대      | invitation                         |
 | 섬        | island                             |
+| 할로피노  | jalapeno                           |
 | 일본      | Japan                              |
 | 어린      | kid                                |
 | 양고기    | lamb                               |
@@ -149,6 +156,7 @@ sidebar:
 | 공책      | notebook                           |
 | 아무것도  | nothing                            |
 | 양파      | onion                              |
+| 소포      | package, parcel                    |
 | 택배      | parcel, package                    |
 | 부모님    | parents                            |
 | 공원      | park                               |
@@ -169,10 +177,12 @@ sidebar:
 | 구리기사  | repairman                          |
 | 답장      | reply                              |
 | 식당      | resturant                          |
+| 부자      | rich person, father/son            |
 | 오른손    | right hand                         |
 | 반지      | ring (jewelry)                     |
 | 강        | river                              |
 | 방        | room                               |
+| 월급      | salary                             |
 | 소금      | salt                               |
 | 목도리    | scarf                              |
 | 장학금    | scholarship                        |
@@ -194,6 +204,7 @@ sidebar:
 | 눈치      | social awareness                   |
 | 간장      | soy sauce                          |
 | 말하기    | speech                             |
+| 시금치    | spinach                            |
 | 영혼      | spirit, soul                       |
 | 봄        | spring                             |
 | 스튜      | stew                               |
