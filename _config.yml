@@ -150,7 +150,6 @@ include:
   - _pages
   - _korean
   - _dadjokes
-  - _korean/_journal
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
